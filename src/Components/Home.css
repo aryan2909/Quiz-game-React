@@ -1,5 +1,5 @@
 .Home-heading1{
-    background-color: cadetblue;
+    background-color: #00000054;
     padding: 6px 0;
     text-align: center;
 }
@@ -9,7 +9,7 @@
 }
 .Home-input{
     padding: 12px 23px;
-    border: solid 2px cadetblue;
+    border: solid 2px #00000054;
     border-radius: 0.3rem;
     background: none;
     margin: 24px 0 48px 0;
@@ -27,7 +27,7 @@
 .Home-start{
     text-decoration: none;
     color: #fff;
-    background-color: cadetblue;
+    background-color: #00000054;
     border-radius: 0.3rem;
     padding: 12px 24px;
     font-size: 1.5rem;
